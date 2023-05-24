@@ -1,4 +1,5 @@
 Python Password Manager
+
 This Python Password Manager is a code project that allows you to securely manage your passwords using a graphical user interface (GUI) built with Tkinter. The password manager enables you to generate strong passwords, store them for different websites or services, and retrieve them when needed.
 
 Features
