@@ -16,7 +16,7 @@ The Python Password Manager is a command-line tool that allows users to generate
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/python-password-manager.git
+git clone https://github.com/jemgs/python_password_manager.git
 Navigate to the project directory:
 
 2. Navigate to the project directory:
